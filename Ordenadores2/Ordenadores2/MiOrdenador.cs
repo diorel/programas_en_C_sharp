@@ -11,7 +11,7 @@ namespace Ordenadores2
         static void Main ( string [] args )
         {
             COrdenador miOrdenador = new COrdenador;
-            miOrdenador.Marca = "Alienware";
+            miOrdenador.Marca = "MAC";
             miOrdenador.EncenderOrdenador();
             miOrdenador.Estado();
            
